@@ -48,4 +48,4 @@ Matematik & Matris İşlemleri: NumPy
 
 Dosya Okuma/Yazma: OpenCV (cv2)
 
-** Geliştirici: Melih Karabacak
+## Geliştirici: Melih Karabacak
